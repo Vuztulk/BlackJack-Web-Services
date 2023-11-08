@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "chrono": "c",
+        "functional": "c",
+        "any": "c",
+        "memory": "c",
+        "random": "c",
+        "optional": "c"
+    }
+}
