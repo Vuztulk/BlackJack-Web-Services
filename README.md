@@ -1,6 +1,6 @@
 # BlackJack Web Services
 
-Una implementación backend del juego de Blackjack utilizando **servicios web basados en SOAP**. Este proyecto expone la lógica del juego a través de un servicio SOAP, permitiendo gestionar partidas de Blackjack (creación, acciones de juego, y consulta de resultados) mediante mensajes XML.
+Una implementación backend del juego de Blackjack utilizando **servicios web basados en SOAP**. Este proyecto expone la lógica del juego a través de un servicio SOAP, permitiendo gestionar partidas de Blackjack (creación, acciones de juego...) mediante mensajes XML.
 
 ## Descripción
 
